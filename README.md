@@ -180,7 +180,6 @@ Our approach involves utilizing sensors and advanced algorithms to detect potent
 Future implementations include:
 - RFID Parking Tracking Solutions
 - Bluetooth Control for the Locomotion
-- Wind Energy Implementation in EV
 - GPS System for Precise Tracking
 - GUI Interfacing with Telematics for SOS Services
 
