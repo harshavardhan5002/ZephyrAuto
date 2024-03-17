@@ -153,7 +153,7 @@ Our approach involves utilizing sensors and advanced algorithms to detect potent
 - Autonomous Collision Avoidance
 
 ## Techstacks used 
-`arduino` , `c++` , `ml` , `tech stack 1` , `tech stack 2`
+`arduino` , `c++` , `circuitry` , `electronics` , `driver control system`, `ADAS - Autonomous Driver Assistance Systems`
 
 ## How to run locally 
 1. Clone the repository to your local machine:
