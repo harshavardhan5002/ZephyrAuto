@@ -1,4 +1,4 @@
-<h1 align="center"># ZephyrAuto+ - Advanced Driver Assistance System Prototype</h1>
+<h1 align="center">ZephyrAuto+ - Advanced Driver Assistance System Prototype</h1>
 ZephyrAuto+: Advanced automotive system enhancing road safety and vehicle technology through sensor-based interventions and driver assistance features.
 
 <h2 align="center">ZephyrAuto+: Advanced Driver Assistance System</h2>
