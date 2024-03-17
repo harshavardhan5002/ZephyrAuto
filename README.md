@@ -2,7 +2,7 @@
     <b>
         <a href="https://www.google.com"> ZephyrAuto+ - Advancing Automotive Safety </a><br>
     </b>
-    ⭐️Empowering safer and smarter driving⭐💀 <br>
+    -Empowering safer and smarter driving- <br>
 </h1>
 
 # [`Demo Video Link`](https://youtu.be/c-q3wmDBizs)
