@@ -1,7 +1,7 @@
 # ZephyrAuto+ - Advanced Driver Assistance System Prototype
 ZephyrAuto+: Advanced automotive system enhancing road safety and vehicle technology through sensor-based interventions and driver assistance features.
 
-# ZephyrAuto+ - Autonomous Vehicle Control System
+# ZephyrAuto+ - Advanced Driver Assistance System
 
 ZephyrAuto+ is an advanced automotive system aimed at revolutionizing road safety and vehicle technology. It integrates a plethora of features such as Adaptive Evasive Maneuvering, Adaptive Cruise Control, Lane-Keeping Assist, Automatic Emergency Braking, Blind Spot Monitoring, and more. These features rely on a sophisticated array of sensors to monitor the vehicle's surroundings, predict potential hazards, and provide timely warnings or interventions to prevent accidents.
 
