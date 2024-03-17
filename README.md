@@ -29,10 +29,23 @@ ZephyrAuto+ is revolutionizing road safety and vehicle technology. Our prototype
 ## Problem statement 
 Road accidents due to human error pose a severe threat to safety. Our project targets this issue by providing advanced safety features for vehicles, catering to all demographics.
 
+## Video and demonstration
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=c-q3wmDBizs">
+    <img src="https://img.youtube.com/vi/c-q3wmDBizs/0.jpg" alt="Video Thumbnail" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=c-q3wmDBizs">Watch the video demonstration here</a>
+</p>
+
+<p align="center">
+  Link address: <a href="https://youtu.be/c-q3wmDBizs">https://youtu.be/c-q3wmDBizs</a>
+</p>
 
 ## About the project
-## <h2 align="center">Introduction</h2>
 
 ZephyrAuto+ is developed to enhance vehicle automation, providing a safer and more efficient driving experience. It leverages a combination of sensors and actuators to control the vehicle's movements, react to its environment, and assist the driver in various scenarios.
 
@@ -124,21 +137,7 @@ Rear Cross Traffic Alert (RCTA) utilizes ultrasonic sensors to monitor the area 
  - Issues personalized audible warnings based on the severity of potential collisions.
  - Can autonomously intervene by applying brakes if the driver doesn't respond promptly.
 
-## Video and demonstration
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=c-q3wmDBizs">
-    <img src="https://img.youtube.com/vi/c-q3wmDBizs/0.jpg" alt="Video Thumbnail" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=c-q3wmDBizs">Watch the video demonstration here</a>
-</p>
-
-<p align="center">
-  Link address: <a href="https://youtu.be/c-q3wmDBizs">https://youtu.be/c-q3wmDBizs</a>
-</p>
 
 
 ## Technical implementation 
