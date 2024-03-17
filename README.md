@@ -1,7 +1,7 @@
-# ZephyrAuto+ - Advanced Driver Assistance System Prototype
+<h1 align="center"># ZephyrAuto+ - Advanced Driver Assistance System Prototype</h1>
 ZephyrAuto+: Advanced automotive system enhancing road safety and vehicle technology through sensor-based interventions and driver assistance features.
 
-# ZephyrAuto+ - Advanced Driver Assistance System
+<h2 align="center">ZephyrAuto+: Advanced Driver Assistance System</h2>
 
 ZephyrAuto+ is an advanced automotive system aimed at revolutionizing road safety and vehicle technology. It integrates a plethora of features such as Adaptive Evasive Maneuvering, Adaptive Cruise Control, Lane-Keeping Assist, Automatic Emergency Braking, Blind Spot Monitoring, and more. These features rely on a sophisticated array of sensors to monitor the vehicle's surroundings, predict potential hazards, and provide timely warnings or interventions to prevent accidents.
 
@@ -14,11 +14,11 @@ ZephyrAuto+ is an advanced automotive system aimed at revolutionizing road safet
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## <h2 align="center">Introduction</h2>
 
 ZephyrAuto+ is developed to enhance vehicle automation, providing a safer and more efficient driving experience. It leverages a combination of sensors and actuators to control the vehicle's movements, react to its environment, and assist the driver in various scenarios.
 
-## Features
+## <h2 align="center">Features</h2>
 
 ### Adaptive Evasive Maneuvering (AEM)
 
@@ -106,7 +106,7 @@ Rear Cross Traffic Alert (RCTA) utilizes ultrasonic sensors to monitor the area 
  - Issues personalized audible warnings based on the severity of potential collisions.
  - Can autonomously intervene by applying brakes if the driver doesn't respond promptly.
 
-## Installation
+## <h2 align="center">Installation</h2>
 
 To install ZephyrAuto+ on your vehicle, follow these steps:
 
@@ -122,7 +122,7 @@ To install ZephyrAuto+ on your vehicle, follow these steps:
 
 4. Upload the slave code to the Arduino board responsible for receiving commands and controlling peripherals.
 
-## Usage
+## <h2 align="center">Usage</h2>
 
 To use ZephyrAuto+:
 
@@ -134,11 +134,11 @@ To use ZephyrAuto+:
 
 4. The System will take action automatically according to the data received from the sensors.
 
-## Contributing
+## <h2 align="center">Contributions</h2>
 
 Contributions to ZephyrAuto+ are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request. Please follow the contribution guidelines outlined in the repository.
 
-## License
+## <h2 align="center">License</h2>
 
 This project is licensed under the [MIT License](LICENSE).
 
