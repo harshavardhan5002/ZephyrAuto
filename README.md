@@ -106,13 +106,23 @@ Rear Cross Traffic Alert (RCTA) utilizes ultrasonic sensors to monitor the area 
  - Issues personalized audible warnings based on the severity of potential collisions.
  - Can autonomously intervene by applying brakes if the driver doesn't respond promptly.
 
-## <h2 align = "center"> Video and demonstration </h2>
+## Video and demonstration
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/c-q3wmDBizs/0.jpg)](https://www.youtube.com/watch?v=c-q3wmDBizs)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=c-q3wmDBizs">
+    <img src="https://img.youtube.com/vi/c-q3wmDBizs/0.jpg" alt="Video Thumbnail" />
+  </a>
+</p>
 
-Link adress :- https://youtu.be/c-q3wmDBizs
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=c-q3wmDBizs">Watch the video demonstration here</a>
+</p>
 
-## <h2 align="center">Installation</h2>
+<p align="center">
+  Link address: <a href="https://youtu.be/c-q3wmDBizs">https://youtu.be/c-q3wmDBizs</a>
+</p>
+
+<h2 align="center">Installation</h2>
 
 To install ZephyrAuto+ on your vehicle, follow these steps:
 
