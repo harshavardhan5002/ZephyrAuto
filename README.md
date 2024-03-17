@@ -18,12 +18,12 @@ ZephyrAuto+ is revolutionizing road safety and vehicle technology. Our prototype
 | Athi Ram RS | athiram26102004@gmail.com |
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/1.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/2.jpg" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/3.jpg" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/4.jpg" alt="Image 3" style="width: 30%; margin: 5px;">
-       <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/5.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/6.jpg" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/Images/1.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/Images/2.jpg" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/Images/3.jpg" alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/Images/4.jpg" alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/Images/5.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/Images/6.jpg" alt="Image 2" style="width: 30%; margin: 5px;">
 </div>
 
 ## Problem statement 
@@ -144,8 +144,8 @@ Rear Cross Traffic Alert (RCTA) utilizes ultrasonic sensors to monitor the area 
 Our approach involves utilizing sensors and advanced algorithms to detect potential hazards and autonomously initiate evasive maneuvers or provide warnings to the driver. Check out the flowchart below for an overview:
 <h2 align= "center">
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/7.png" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/8.png" style="width: 30%; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/Images/7.png" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/Images/8.png" style="width: 30%; margin: 5px;">
 </div>
 </h2>
 
