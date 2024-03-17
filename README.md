@@ -142,11 +142,12 @@ Rear Cross Traffic Alert (RCTA) utilizes ultrasonic sensors to monitor the area 
 
 ## Technical implementation 
 Our approach involves utilizing sensors and advanced algorithms to detect potential hazards and autonomously initiate evasive maneuvers or provide warnings to the driver. Check out the flowchart below for an overview:
-
+<h2 align= "center">
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/7.png" alt="Image 1" style="width: 30%; margin: 5px;">
     <img src="https://raw.githubusercontent.com/spyderbeast/ZephyrAuto/main/8.png" style="width: 30%; margin: 5px;">
 </div>
+</h2>
 
 - Ultrasonic, IR, LDR Sensor Detection
 - Warning and Driver Alert
